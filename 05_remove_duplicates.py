@@ -5,6 +5,6 @@ def remove_duplicates():
 
 
 if __name__ == '__main__':
-    my_list = ["Berlin", "Hamburg", "Dresden", "Berlin", "Schwering", "Dresden", "hamburg", "Frankfurt", "München",
+    my_list = ["Berlin", "Hamburg", "Dresden", "Berlin", "Schwerin", "Dresden", "hamburg", "Frankfurt", "München",
                "berlin"]
     remove_duplicates()
